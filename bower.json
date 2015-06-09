@@ -1,0 +1,17 @@
+{
+  "name": "Github Profiles Angular",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rodcul/github-profiles-angular",
+  "authors": [
+    "Rodney Patrick Cullen <rodcul@gmail.com>"
+  ],
+  "description": "Makers Academy Week 7 project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
